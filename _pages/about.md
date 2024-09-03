@@ -12,7 +12,7 @@ redirect_from:
 ### 兴趣爱好：
 #### 阅读：
 我喜欢阅读各种类型的书籍，尤其是历史和浪漫小说。通过阅读，我能更好地了解不同的文化和历史背景，也能获得灵感来设计和创作。
-![这里写图片描述](https://gd-hbimg.huaban.com/baf660102eb259d6897c00bc35b5c5ca771648862cbc1-7Cpqgf_fw480webp)
+![CSDN]([https://gd-hbimg.huaban.com/baf660102eb259d6897c00bc35b5c5ca771648862cbc1-7Cpqgf_fw480webp](https://csdnimg.cn/cdn/content-toolbar/csdn-logo_.png?v=20190924.1))
 #### 打游戏：
 游戏是我放松的方式之一，我特别喜欢那些有深度的策略类和角色扮演游戏。它们不仅有趣，还能锻炼我的思维能力和决策技巧。
 #### 看电影：
