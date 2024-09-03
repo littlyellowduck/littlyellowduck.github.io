@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "个人主页"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-大家好，我是一名福州大学计算机科学与技术专业的大三学生
+>大家好，我是一名福州大学计算机科学与技术专业的大三学生！欢迎来和我探讨问题，一起学习编程技术，共同进步！！！
 
 ### 一、兴趣爱好：
 **1.学习新的编程技术：**
