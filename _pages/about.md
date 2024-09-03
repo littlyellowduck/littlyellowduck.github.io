@@ -18,7 +18,12 @@ redirect_from:
 #### 看电影：
 电影是我另一个热爱的爱好，我喜欢各种类型的影片，从经典的剧情片到现代的科幻片都能吸引我的注意。电影常常给我带来新的视角和创意。
 #### 学习新的编程技术：
-
+<div display="flex" > 
+<img src="https://gd-hbimg.huaban.com/522dcb65b200156c9d9ab2c94ea7e6661d69127b5304f-DAdY5O"   width="100px" height="100px" >
+<img src="https://gd-hbimg.huaban.com/522dcb65b200156c9d9ab2c94ea7e6661d69127b5304f-DAdY5O"  width="100px" height="100px" >
+<img src="https://gd-hbimg.huaban.com/522dcb65b200156c9d9ab2c94ea7e6661d69127b5304f-DAdY5O"  width="100px" height="100px" >
+<img src="https://gd-hbimg.huaban.com/522dcb65b200156c9d9ab2c94ea7e6661d69127b5304f-DAdY5O"  width="100px" height="100px" >
+</div>
 值得向别人展示的记忆通常是那些能够体现你个人特色、成就和成长的经历。对于我来说，这些记忆包括：
 
 1. **项目经历**：完成的编程项目或参与的技术开发，这些都能展示我的技术能力和解决问题的能力。例如，个人博客的设计或在GitHub上展示的开源项目。
